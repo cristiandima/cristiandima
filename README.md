@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm Cristian. I like hard problems, software, finance, music of all kind, and ambitious open minded people. I'm passionate about artificial intelligence, natural language processing, financial markets, and web development.
 
-Online properties
+#### Online properties
 
 - :notebook_with_decorative_cover: I blog at http://cristiandima.com
-- :video_game: [Box](https://cristiandima.github.io/box/) a 2d puzzle game inspired by The Talos Principle
-- :musical_keyboard: [Mahler](http://cristiandima.github.io/mahler/) a sight reading app (some horrendoussly complicated js code that seems to still work many years later)
+- :video_game: [Box](https://cristiandima.github.io/box/) a 2d puzzle game inspired by The Talos Principle ![box](box.png)
+- :musical_keyboard: [Mahler](http://cristiandima.github.io/mahler/) a sight reading app (some horrendoussly complicated js code that seems to still work many years later) ![box](mahler.png)
 - [Scribe](https://github.com/cristiandima/scribe) a small py script I use to generate my blog
