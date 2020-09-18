@@ -21,5 +21,5 @@ I'm Cristian. I like hard problems, software, finance, music of all kind, and am
 
 - :notebook_with_decorative_cover: I blog at http://cristiandima.com
 - :video_game: [Box](https://cristiandima.github.io/box/) a 2d puzzle game inspired by The Talos Principle ![box](box.png)
+- :horse: [ChessBoardMaster](http://cristiandima.github.io/chessboardmaster/) ![chessboardmaster](chessboardmaster.png)
 - :musical_keyboard: [Mahler](http://cristiandima.github.io/mahler/) a sight reading app (some horrendoussly complicated js code that seems to still work many years later) ![box](mahler.png)
-- [Scribe](https://github.com/cristiandima/scribe) a small py script I use to generate my blog
